@@ -70,7 +70,7 @@ const [task, setTask] = useState([])
 
 
           <h3 className="leading-tight text-xl font-bold text-[#1b263b]">{elem.title}</h3>
-          <p className=" leading-tight text-[#e0e1dd]">{elem.detail}</p>
+          <p className="leading-tight text-[#e0e1dd]">{elem.detail}</p>
         </div>
        })}
        </div>

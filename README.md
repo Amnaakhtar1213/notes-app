@@ -1,16 +1,42 @@
-# React + Vite
+## Notes App 📑
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple React notes app where you can add, view, and delete notes. It’s built with React hooks (useState) and styled using Tailwind CSS.
 
-Currently, two official plugins are available:
+-----------------
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+##  Features ✨
 
-## React Compiler
+- Add a note with a title and detail.
+- Notes show up in a styled card layout.
+- Each note has an X mark to delete it instantly.
+- Responsive design with Tailwind classes.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+-------------------
 
-## Expanding the ESLint configuration
+##  Tech Stack 🛠️
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- React (functional components + hooks)
+- Tailwind CSS (for styling)
+- Font Awesome (for the X mark icon)
+
+------------------
+
+## How to Run 
+
+--------------------
+
+## SCREENSHOT 📸
+
+- [Click here for screenshot](./src/assets/ss.png)
+
+------------------
+
+## LIVE DEMO 🌐
+
+- [Click here for notes-app live-demo]()
+
+----------------
+
+## Clone the Repository 
+```bash
+git clone https://github.com/Amnaakhtar1213/notes-app.git
